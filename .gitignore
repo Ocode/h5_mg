@@ -66,10 +66,10 @@ selenium-debug.log
 *.private.*
 
 # temp
-starter
 temp/
 build
 config/
 shared
 static
-vue-ui
+start
+custom
