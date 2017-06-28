@@ -14,8 +14,9 @@
     ["module-resolver", {
       "root": ["./src"],
       "alias": {
+        "@UI": "./vue-ui",
         "@common": "./src",
-        "@components": "./src/components",
+        // "@components": "./src/components",
         "@api": "./src/services"
       },
       "extensions": [".js", ".jsx", ".es", ".es6"]
